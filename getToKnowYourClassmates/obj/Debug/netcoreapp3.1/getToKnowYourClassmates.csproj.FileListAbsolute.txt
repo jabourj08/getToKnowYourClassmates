@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\bin\Debug\netcoreapp3.1\getToKnowYourClassmates.exe
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\bin\Debug\netcoreapp3.1\getToKnowYourClassmates.deps.json
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\bin\Debug\netcoreapp3.1\getToKnowYourClassmates.runtimeconfig.json
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\bin\Debug\netcoreapp3.1\getToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\bin\Debug\netcoreapp3.1\getToKnowYourClassmates.dll
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\bin\Debug\netcoreapp3.1\getToKnowYourClassmates.pdb
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\obj\Debug\netcoreapp3.1\getToKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\obj\Debug\netcoreapp3.1\getToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\obj\Debug\netcoreapp3.1\getToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\obj\Debug\netcoreapp3.1\getToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\obj\Debug\netcoreapp3.1\getToKnowYourClassmates.dll
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\obj\Debug\netcoreapp3.1\getToKnowYourClassmates.pdb
+C:\Users\Josh\source\repos\getToKnowYourClassmates\getToKnowYourClassmates\obj\Debug\netcoreapp3.1\getToKnowYourClassmates.genruntimeconfig.cache
